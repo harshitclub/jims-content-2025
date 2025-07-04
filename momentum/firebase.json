@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "momentum-3a0d6",
+          "appId": "1:930036806471:android:5a6a0d89e004899db7d262",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "momentum-3a0d6",
+          "configurations": {
+            "android": "1:930036806471:android:5a6a0d89e004899db7d262"
+          }
+        }
+      }
+    }
+  }
+}
